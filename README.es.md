@@ -55,4 +55,4 @@ Para la mayoría de los directores extranjeros sin domicilio en el Reino Unido, 
 
 **🌐 [Obtener su Personal Code → verifydirector.com](https://verifydirector.com)**
 
-*[Volver a la página principal en inglés](../README.md)*
+*[Volver a la página principal en inglés](./README.md)*

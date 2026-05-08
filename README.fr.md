@@ -55,4 +55,4 @@ Pour la plupart des directeurs français sans adresse au Royaume-Uni, cette voie
 
 **🌐 [Obtenir votre Personal Code → verifydirector.com](https://verifydirector.com)**
 
-*[Retour à la page principale en anglais](../README.md)*
+*[Retour à la page principale en anglais](./README.md)*

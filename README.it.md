@@ -46,4 +46,4 @@ Per la maggior parte dei direttori italiani senza residenza nel Regno Unito, que
 
 **🌐 [Ottieni il tuo Personal Code → verifydirector.com](https://verifydirector.com)**
 
-*[Torna alla pagina principale in inglese](../README.md)*
+*[Torna alla pagina principale in inglese](./README.md)*

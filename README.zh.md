@@ -94,4 +94,4 @@
 
 **🌐 [立即申请 Personal Code → verifydirector.com](https://verifydirector.com)**
 
-*[返回英文主页](../README.md)*
+*[返回英文主页](./README.md)*

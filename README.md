@@ -166,16 +166,16 @@ Key dates:
 
 ## Available in Your Language
 
-- 🇩🇪 [Deutsch — UK Companies House Personal Code für deutsche Direktoren](./docs/de.md)
-- 🇫🇷 [Français — Personal Code UK pour dirigeants étrangers](./docs/fr.md)
-- 🇪🇸 [Español — Código Personal de Companies House para directores extranjeros](./docs/es.md)
-- 🇮🇹 [Italiano — Personal Code UK per amministratori stranieri](./docs/it.md)
-- 🇨🇳 [简体中文 — 英国公司注册处 Personal Code 申请服务](./docs/zh.md)
-- 🇹🇼 [繁體中文 — 英國公司注冊處 Personal Code 申請服務](./docs/zh-TW.md)
-- 🇯🇵 [日本語 — UK Companies House パーソナルコード申請](./docs/ja.md)
-- 🇰🇷 [한국어 — 영국 컴퍼니즈 하우스 퍼스널 코드 신청](./docs/ko.md)
-- 🇻🇳 [Tiếng Việt — Dịch vụ đăng ký Personal Code UK](./docs/vi.md)
-- 🇹🇭 [ภาษาไทย — บริการขอ Personal Code ของ UK Companies House](./docs/th.md)
+- 🇩🇪 [Deutsch — UK Companies House Personal Code für deutsche Direktoren](./README.de.md)
+- 🇫🇷 [Français — Personal Code UK pour dirigeants étrangers](./README.fr.md)
+- 🇪🇸 [Español — Código Personal de Companies House para directores extranjeros](./README.es.md)
+- 🇮🇹 [Italiano — Personal Code UK per amministratori stranieri](./README.it.md)
+- 🇨🇳 [简体中文 — 英国公司注册处 Personal Code 申请服务](./README.zh.md)
+- 🇹🇼 [繁體中文 — 英國公司注冊處 Personal Code 申請服務](./README.zh-TW.md)
+- 🇯🇵 [日本語 — UK Companies House パーソナルコード申請](./README.ja.md)
+- 🇰🇷 [한국어 — 영국 컴퍼니즈 하우스 퍼스널 코드 신청](./README.ko.md)
+- 🇻🇳 [Tiếng Việt — Dịch vụ đăng ký Personal Code UK](./README.vi.md)
+- 🇹🇭 [ภาษาไทย — บริการขอ Personal Code ของ UK Companies House](./README.th.md)
 
 ---
 

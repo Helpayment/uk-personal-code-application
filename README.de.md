@@ -76,4 +76,4 @@ In der Regel 1–3 Werktage nach Einreichung der Dokumente.
 
 **🌐 [Jetzt Personal Code beantragen → verifydirector.com](https://verifydirector.com)**
 
-*Zurück zur [englischen Hauptseite](../README.md)*
+*Zurück zur [englischen Hauptseite](./README.md)*

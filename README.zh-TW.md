@@ -55,4 +55,4 @@
 
 **🌐 [立即申請 Personal Code → verifydirector.com](https://verifydirector.com)**
 
-*[返回英文主頁](../README.md)*
+*[返回英文主頁](./README.md)*

@@ -46,4 +46,4 @@
 
 **🌐 [ขอ Personal Code เลย → verifydirector.com](https://verifydirector.com)**
 
-*[กลับไปหน้าหลักภาษาอังกฤษ](../README.md)*
+*[กลับไปหน้าหลักภาษาอังกฤษ](./README.md)*

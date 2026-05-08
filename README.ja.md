@@ -76,4 +76,4 @@ GOV.UK One Login による自己確認には以下が必要です：
 
 **🌐 [Personal Code を今すぐ取得 → verifydirector.com](https://verifydirector.com)**
 
-*[英語メインページに戻る](../README.md)*
+*[英語メインページに戻る](./README.md)*

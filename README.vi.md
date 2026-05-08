@@ -55,4 +55,4 @@ Với hầu hết giám đốc người Việt không có địa chỉ tại Anh
 
 **🌐 [Đăng ký Personal Code ngay → verifydirector.com](https://verifydirector.com)**
 
-*[Quay lại trang chủ tiếng Anh](../README.md)*
+*[Quay lại trang chủ tiếng Anh](./README.md)*

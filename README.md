@@ -166,17 +166,17 @@ Key dates:
 
 ## Available in Your Language
 
-- 🇩🇪 [Deutsch — UK Companies House Personal Code für deutsche Direktoren](./Personal-Code-Deutsch.md)
-- 🇫🇷 [Français — Personal Code UK pour dirigeants étrangers](./Personal-Code-Français.md)
-- 🇪🇸 [Español — Código Personal de Companies House para directores extranjeros](./Personal-Code-Español.md)
-- 🇮🇹 [Italiano — Personal Code UK per amministratori stranieri](./Personal-Code-Italiano.md)
-- 🇸🇦 [العربية — خدمة التحقق من الهوية لـ UK Companies House](./Personal-Code-العربية.md)
-- 🇨🇳 [简体中文 — 英国公司注册处 Personal Code 申请服务](./Personal-Code-简体中文.md)
-- 🇹🇼 [繁體中文 — 英國公司注冊處 Personal Code 申請服務](./Personal-Code-繁體中文.md)
-- 🇯🇵 [日本語 — UK Companies House パーソナルコード申請](./Personal-Code-日本語.md)
-- 🇰🇷 [한국어 — 영국 컴퍼니즈 하우스 퍼스널 코드 신청](./Personal-Code-한국어.md)
-- 🇻🇳 [Tiếng Việt — Dịch vụ đăng ký Personal Code UK](./Personal-Code-Tiếng-Việt.md)
-- 🇹🇭 [ภาษาไทย — บริการขอ Personal Code ของ UK Companies House](./Personal-Code-ภาษาไทย.md)
+- 🇩🇪 [Deutsch — Personal Code UK beantragen für ausländische Direktoren](./Personal-Code-UK-beantragen.md)
+- 🇫🇷 [Français — Obtenir le Personal Code UK pour dirigeants étrangers](./Personal-Code-UK-obtenir.md)
+- 🇪🇸 [Español — Personal Code UK para director extranjero](./Personal-Code-UK-director-extranjero.md)
+- 🇮🇹 [Italiano — Personal Code UK per amministratori non residenti](./Personal-Code-UK-non-residenti.md)
+- 🇸🇦 [العربية — التحقق من الهوية في Companies House للمديرين العرب](./التحقق-هوية-Companies-House.md)
+- 🇨🇳 [简体中文 — 英国公司身份验证 Personal Code 申请](./英国公司身份验证-Personal-Code.md)
+- 🇹🇼 [繁體中文 — 英國公司身份驗證 Personal Code 申請](./英國公司身份驗證-Personal-Code.md)
+- 🇯🇵 [日本語 — UK 取締役・PSC 本人確認 Personal Code 取得](./UK取締役-本人確認-Personal-Code.md)
+- 🇰🇷 [한국어 — 영국 이사 신원확인 Personal Code 신청](./영국-이사-신원확인-Personal-Code.md)
+- 🇻🇳 [Tiếng Việt — Xác minh danh tính UK Companies House](./xac-minh-danh-tinh-UK.md)
+- 🇹🇭 [ภาษาไทย — ยืนยันตัวตน Companies House สำหรับกรรมการต่างชาติ](./ยืนยันตัวตน-Companies-House.md)
 
 ---
 
